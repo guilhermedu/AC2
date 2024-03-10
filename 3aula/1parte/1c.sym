@@ -1,0 +1,14 @@
+GAS LISTING 1c.s 			page 1
+
+
+DEFINED SYMBOLS
+                1c.s:1      *ABS*:000000000000bf88 SFR_BASE_HI
+                1c.s:2      *ABS*:0000000000006100 TRISE
+                1c.s:3      *ABS*:0000000000006106 PORTE
+                1c.s:4      *ABS*:0000000000006120 LATE
+                1c.s:5      *ABS*:00000000000060c0 TRISD
+                1c.s:6      *ABS*:00000000000060d0 PORTD
+                1c.s:12     .text:0000000000000000 main
+                1c.s:21     .text:000000000000001c loop
+
+NO UNDEFINED SYMBOLS

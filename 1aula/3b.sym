@@ -1,0 +1,14 @@
+GAS LISTING 3b.s 			page 1
+
+
+DEFINED SYMBOLS
+                3b.s:15     *ABS*:0000000000000002 getChar
+                3b.s:16     *ABS*:0000000000000003 putChar
+                3b.s:19     .text:0000000000000000 main
+                3b.s:20     .text:0000000000000000 do
+                3b.s:26     .text:0000000000000010 if
+                3b.s:31     .text:0000000000000024 while
+                3b.s:29     .text:0000000000000020 else
+                3b.s:33     .text:0000000000000030 endwhile
+
+NO UNDEFINED SYMBOLS
